@@ -2,7 +2,7 @@
 
 # STOCHASTIC VARIANCE-REDUCED GAUSSIAN VARIATIONAL INFERENCE ON THE BURES-WASSERSTEIN MANIFOLD
 
-This repository contains the source code and the experiment results of the paper:
+This repository contains the source code of the paper:
 
 >Hoang Phuc Hau Luu, Hanlin Yu, Bernardo Williams, Marcelo Hartmann, Arto Klami. Stochastic variance-reduced Gaussian variational inference on the Bures-Wasserstein manifold. _International Conference on Learning Representations 2025._
 
